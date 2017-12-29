@@ -1,17 +1,15 @@
 # prestashop-plugin-integration
 Plugin para Integrar Prestashop con Juntoz.com
 
-## Version 1.0:
-Solo Integra stock y precio a demanda. 
 
-## Version 2.0:
-Aparte de stock, tambien expone la informacion de productos para poder Integrar los productos con juntoz.
+## Funcionalidad:
+Permite la consulta de Stock, Precio, Categorias, Precios Especiales y Informacion de Productos desde juntoz. El plugin solo expone los datos existentes en Prestashop, con token de seguridad, en un formato que los entiende el sistema de lado de juntoz. No envia data a juntoz, solo escucha (pull).
 
 
 ## Instalacion
 - Descargar carpeta Release. 
 - Leer el manual en PDF sobre como instalar y seguir los pasos
-- En caso de instalar la version 2.0, los permisos adicionales necesarios son: `description_by_sku`
+- Los permisos adicionales necesarios son: `description_by_sku`
 - Avisar a su KAM en juntoz para solicitar habilitar la integracion. 
 
 

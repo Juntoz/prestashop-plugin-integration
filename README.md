@@ -8,6 +8,7 @@ Permite la consulta de Stock, Precio, Categorias, Precios Especiales y Informaci
 
 ## Instalacion
 - Descargar carpeta Release. 
+- Fijarse en ultima version, archivos .zip y .pdf (manual). Actualmente ultima version es v2
 - Leer el manual en PDF sobre como instalar y seguir los pasos
 - Los permisos adicionales necesarios son: `description_by_sku`
 - Avisar a su KAM en juntoz para solicitar habilitar la integracion. 
